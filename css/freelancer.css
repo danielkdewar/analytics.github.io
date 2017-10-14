@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color:#1a242f;
+    color: #18bc9c;
 }
 
 h1,
@@ -48,10 +48,12 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
+    content: "\f005";
     display: inline-block;
     position: relative;
     top: -.8em;
     padding: 0 .25em;
+    font-family: FontAwesome;
     font-size: 2em;
 }
 
@@ -65,7 +67,7 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #6534ff;
+    border-color: #2c3e50;
 }
 
 hr.star-primary:after {
@@ -80,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: url(../img/topbg.jpg) repeat-x top center;
+    background: #18bc9c;
 }
 
 header .container {
@@ -179,7 +181,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #fccdd3;
+    background: #18bc9c;
 }
 
 section.success a,
@@ -188,7 +190,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #6534ff;
+    color: #2c3e50;
 }
 
 @media(max-width:767px) {
@@ -342,7 +344,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #bbc4ef;
+    background-color: #2c3e50;
 }
 
 footer .footer-col {
@@ -351,7 +353,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #6534ff;
+    background-color: #233140;
 }
 
 .btn-social {
