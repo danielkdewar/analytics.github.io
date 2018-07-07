@@ -6,9 +6,19 @@
     <description>Recent content on Google Analytics $200 Setup &amp; Optmisation — Five Twenty Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 27 May 2017 16:51:15 +1000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thanks</title>
+      <link>/thanks/</link>
+      <pubDate>Sat, 27 May 2017 16:51:15 +1000</pubDate>
+      
+      <guid>/thanks/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
